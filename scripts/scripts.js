@@ -27,7 +27,7 @@ const CONFIG = {
   // fallbackRouting: 'off',
   decorateArea,
   live: {
-    pdfViewerClientId: 'cbaeef5374204b1c9fce05067674351b',
+    pdfViewerClientId: 'd7518dc855cf40fbb4ebbbe3813c8217',
     edgeConfigId: '72b074a6-76d2-43de-a210-124acc734f1c',
   },
   stage: {
