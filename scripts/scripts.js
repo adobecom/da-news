@@ -40,8 +40,8 @@ const CONFIG = {
   },
   prodDomains: ['www.adobe.com', 'news.adobe.com', 'business.adobe.com', 'helpx.adobe.com'],
   page: { pdfViewerClientId: 'a047957d3f3d46c08affb18ac02a1bc9' },
-  hlxPage: { pdfViewerClientId: 'df45ae024b7a4a9fbeb7d306075c7749' },
-  hlxLive: { pdfViewerClientId: '3a0c922fabdf4178804a3dfa410a254f' },
+  hlxPage: { pdfViewerClientId: 'f06667d419934a61bf7c378362e3d88e' },
+  hlxLive: { pdfViewerClientId: 'd7518dc855cf40fbb4ebbbe3813c8217' },
   stageDomainsMap: {
     'news.stage.adobe.com': {
       'www.adobe.com(?!\\/*\\S*\\/(content\\/dam\\/cc\\/en\\/investor-relations\\/pdfs\\/)\\S*)': 'www.stage.adobe.com',
