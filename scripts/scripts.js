@@ -39,7 +39,7 @@ const CONFIG = {
     edgeConfigId: '913eac4d-900b-45e8-9ee7-306216765cd2',
   },
   prodDomains: ['www.adobe.com', 'news.adobe.com', 'business.adobe.com', 'helpx.adobe.com'],
-  page: { pdfViewerClientId: 'a047957d3f3d46c08affb18ac02a1bc9' },
+  page: { pdfViewerClientId: 'f06667d419934a61bf7c378362e3d88e' },
   hlxPage: { pdfViewerClientId: 'f06667d419934a61bf7c378362e3d88e' },
   hlxLive: { pdfViewerClientId: 'd7518dc855cf40fbb4ebbbe3813c8217' },
   stageDomainsMap: {
